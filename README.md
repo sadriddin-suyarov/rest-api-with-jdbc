@@ -1,0 +1,1 @@
+Simple rest-api app demo using java servlets and jdbc
